@@ -1,0 +1,45 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.header
+{
+    /* min-height: 100vh; */
+    /* width: 98%; */
+    /* background-image: linear-gradient(rgba(4,9,30,0.7)); */
+}
+body {
+    color: black;
+    font-family: sans-serif;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  .card > .card-header{background: rgb(20, 7, 7)!important;
+  color: white;
+height: 60px;}
+
+  .card > .card-footer{background: rgb(20, 7, 7)!important;
+    color: white;
+    height: 60px;}
+
+  
+
+  
+  /* .card > .card-header{background: linear-gradientrgba(151, 158, 188, 0.7)!important} */
